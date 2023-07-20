@@ -2,7 +2,7 @@
 
 A calculator that calculates simple interest given principal, annual rate of interest, and time period in years.</br>
 
-Input:</br>
+Input:
   p, principle</br>
   t, time period in years</br>
   r, annual rate of interest</br>
